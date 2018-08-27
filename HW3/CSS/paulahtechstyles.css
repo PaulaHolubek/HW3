@@ -10,15 +10,27 @@ textarea {
 	border-radius: 10px;	
 }
 
+div.header {
+	background-color: deepskyblue;
+	height: 150px;
+}
 
+.header img {
+	float: left;
+	border-radius: 85px;
+	margin-left: 50px;
+	margin-top: 60px;
+
+	}
+
+div.space {
+	height: 25px;
+}
+	
 /* Set title style */
 #top {
-	background-image: url("\images\Peacock.jpg");
 	text-align: left;
 	height: 150px;
-	min-width: 450px;
-	max-width: 1800px;
-	padding: 5px
 }
 
 
